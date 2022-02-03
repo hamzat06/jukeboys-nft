@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/jukeboys-nft/static/css/main.f0d7e2e7.css",
+    "main.js": "/jukeboys-nft/static/js/main.9a242574.js",
+    "static/js/787.0d0135e6.chunk.js": "/jukeboys-nft/static/js/787.0d0135e6.chunk.js",
+    "static/media/hero-image.png": "/jukeboys-nft/static/media/hero-image.88d9402a31465b5769cd.png",
+    "static/media/circle.png": "/jukeboys-nft/static/media/circle.3e8343cf639da51ce38e.png",
+    "static/media/jukeRobin.png": "/jukeboys-nft/static/media/jukeRobin.e2b44ab66439147c5b63.png",
+    "static/media/jukeRashi.png": "/jukeboys-nft/static/media/jukeRashi.8d67eb78f813306e1f86.png",
+    "static/media/jukeHone.png": "/jukeboys-nft/static/media/jukeHone.62add6e379bbdbd05629.png",
+    "static/media/jukeAlpha.png": "/jukeboys-nft/static/media/jukeAlpha.b81b920bf921cd944f5d.png",
+    "static/media/jukeMag.png": "/jukeboys-nft/static/media/jukeMag.4b088aee814f5c47ba62.png",
+    "static/media/jukeboys.png": "/jukeboys-nft/static/media/jukeboys.aeaad876461e912282f4.png",
+    "static/media/hero-bg.png": "/jukeboys-nft/static/media/hero-bg.4978fb2c66e29ce0c861.png",
+    "static/media/featured.png": "/jukeboys-nft/static/media/featured.0f6c149826c46c836c76.png",
+    "static/media/community.png": "/jukeboys-nft/static/media/community.102f4c57a554ca787a24.png",
+    "static/media/featured2.png": "/jukeboys-nft/static/media/featured2.23f899083bc2316daa59.png",
+    "static/media/featured3.png": "/jukeboys-nft/static/media/featured3.bd824143160b6723a755.png",
+    "static/media/logo.png": "/jukeboys-nft/static/media/logo.b945d0cbd47cc9c304cf.png",
+    "static/media/discordB.png": "/jukeboys-nft/static/media/discordB.fcb1b31f7dec865b27fe.png",
+    "static/media/featured1.png": "/jukeboys-nft/static/media/featured1.5e35a352b7e69cac237e.png",
+    "static/media/discord.svg": "/jukeboys-nft/static/media/discord.5f7f4817627504364c05471801c206cd.svg",
+    "index.html": "/jukeboys-nft/index.html",
+    "main.f0d7e2e7.css.map": "/jukeboys-nft/static/css/main.f0d7e2e7.css.map",
+    "main.9a242574.js.map": "/jukeboys-nft/static/js/main.9a242574.js.map",
+    "787.0d0135e6.chunk.js.map": "/jukeboys-nft/static/js/787.0d0135e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d7e2e7.css",
+    "static/js/main.9a242574.js"
+  ]
+}
