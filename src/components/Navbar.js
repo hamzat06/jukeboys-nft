@@ -2,7 +2,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 
 export const Navbar = ({ toggleNav, toggleNavbar, Twitter, Instagram, Logo, Discord }) => {
   return (
-    <nav className="bg-white p-6 shadow-md sticky top-0 z-10">
+    <nav className="bg-white p-6 shadow-md sticky top-0 z-30">
       <div className="container mx-auto max-w-6xl flex items-center justify-between flex-wrap px-5">
         <div className="flex items-center flex-shrink-0 mr-6">
           <span className="cursor-pointer" onClick={() => scroll.scrollToTop()}><img alt="" src={Logo} className="w-16" /></span>
@@ -67,13 +67,13 @@ export const Navbar = ({ toggleNav, toggleNavbar, Twitter, Instagram, Logo, Disc
           </div>
           <div className="lg:space-x-10 items-center">
               <a href="https://twitter.com" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
-                <img alt="" src={Twitter} className="w-8 mx-auto lg:mx-0" />
+                <img alt="" src={Twitter} className="w-10 mx-auto lg:mx-0" />
               </a>
               <a href="https://instagram.com" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
                 <img alt="" src={Instagram} className="w-8 mx-auto lg:mx-0" />
               </a>
-              <a href="https://discord.com" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
-                <img alt="" src={Discord} className="w-10 mx-auto lg:mx-0" />
+              <a href="https://discord.com" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110 lg:relative lg:top-1">
+                <img alt="" src={Discord} className="w-11 mx-auto lg:mx-0" />
             </a>
             </div>
         </div>
