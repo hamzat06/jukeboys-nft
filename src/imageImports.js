@@ -19,7 +19,12 @@ import JukeRashi from "./assets/images/jukeRashi.png";
 import BlueArrow from "./assets/images/blue-arrow.png";
 import OrangeArrow from "./assets/images/orange-arrow.png";
 import GreenArrow from "./assets/images/green-arrow.png";
-import DiscordB from "./assets/images/discordB.png"
+import DiscordB from "./assets/images/discordB.png";
+import Discord from "./assets/images/discord.svg";
+import Line1 from "./assets/images/line1.png";
+import Line2 from "./assets/images/line2.png";
+import Line3 from "./assets/images/line3.png";
+import Circle from "./assets/images/circle.png";
 
 export {
   Featured3,
@@ -43,5 +48,10 @@ export {
   BlueArrow,
   GreenArrow,
   OrangeArrow,
-  DiscordB
+  DiscordB,
+  Discord,
+  Line1,
+  Line2,
+  Line3,
+  Circle
 }

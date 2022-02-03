@@ -7,7 +7,7 @@ export const Features = ({ featuresArray }) => {
           {
             featuresArray.map((feature) => {
               return (
-                <div className="bg-white p-8 lg:p-14 rounded-3xl shadow-md text-center hover:transition hover:delay-150 hover:duration-300 hover:ease-in-out hover:scale-110">
+                <div className="bg-white p-8 lg:p-14 rounded-3xl shadow-md text-center lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
                   <img alt="" src={feature.thumbnail} className="w-full md:w-auto" />
                   <h3 className="text-2xl md:text-3xl font-semibold mb-8">{feature.title}</h3>
                   <p className="leading-relaxed">{feature.content}</p>

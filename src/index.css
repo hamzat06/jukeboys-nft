@@ -4,6 +4,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
 }
 
 .hero {
@@ -12,4 +13,20 @@ body {
 
 .community {
   background-image: url("./assets/images/community.png");
+}
+
+.circle {
+  animation: scale 3s linear infinite;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(1.0)
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1.0);
+  }
 }

@@ -20,7 +20,8 @@ import {
   Instagram,
   TwitterB,
   InstagramB,
-  DiscordB
+  DiscordB,
+  Discord
 } from "./imageImports";
 
 import {
@@ -106,7 +107,7 @@ class App extends Component {
               <Roadmap roadmapData={this.state.roadmapData} />
               <Team teamMembers={this.state.teamMembers} />
               <Faqs faqs={this.state.faqs} />
-              <Community Twitter={Twitter} Instagram={Instagram} />
+              <Community Twitter={Twitter} Instagram={Instagram} Discord={Discord} />
               <PreFooter modalData={this.state.modalData} openModal={openModal} />
               <Footer/>
             </>
