@@ -9,9 +9,9 @@ export const Community = ({ Twitter, Instagram, Discord }) => {
         </h5>
 
         <div className="flex justify-center gap-16 sm:gap-20">
-          <a href="twitter.com" target="_blank"><img alt="" src={Twitter} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
-          <a href="twitter.com" target="_blank"><img alt="" src={Discord} className="h-14 md:h-24 animate-bounce hover:animate-none" /></a>
-          <a href="instagram.com" target="_blank"><img alt="" src={Instagram} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
+          <a href="https://twitter.com/JukeBoysNFTs" target="_blank"><img alt="" src={Twitter} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
+          <a href="https://discord.gg/ft2fet4S" target="_blank"><img alt="" src={Discord} className="h-14 md:h-24 animate-bounce hover:animate-none" /></a>
+          <a href="https://instagram.com/jukeboysnfts/" target="_blank"><img alt="" src={Instagram} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
         </div>
       </div>
     </div>
