@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jukeboys-nft/static/css/main.f0d7e2e7.css",
-    "main.js": "/jukeboys-nft/static/js/main.9a242574.js",
+    "main.css": "/jukeboys-nft/static/css/main.c8d96f19.css",
+    "main.js": "/jukeboys-nft/static/js/main.80ed0e17.js",
     "static/js/787.0d0135e6.chunk.js": "/jukeboys-nft/static/js/787.0d0135e6.chunk.js",
     "static/media/hero-image.png": "/jukeboys-nft/static/media/hero-image.88d9402a31465b5769cd.png",
     "static/media/circle.png": "/jukeboys-nft/static/media/circle.3e8343cf639da51ce38e.png",
@@ -21,12 +21,12 @@
     "static/media/featured1.png": "/jukeboys-nft/static/media/featured1.5e35a352b7e69cac237e.png",
     "static/media/discord.svg": "/jukeboys-nft/static/media/discord.5f7f4817627504364c05471801c206cd.svg",
     "index.html": "/jukeboys-nft/index.html",
-    "main.f0d7e2e7.css.map": "/jukeboys-nft/static/css/main.f0d7e2e7.css.map",
-    "main.9a242574.js.map": "/jukeboys-nft/static/js/main.9a242574.js.map",
+    "main.c8d96f19.css.map": "/jukeboys-nft/static/css/main.c8d96f19.css.map",
+    "main.80ed0e17.js.map": "/jukeboys-nft/static/js/main.80ed0e17.js.map",
     "787.0d0135e6.chunk.js.map": "/jukeboys-nft/static/js/787.0d0135e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d7e2e7.css",
-    "static/js/main.9a242574.js"
+    "static/css/main.c8d96f19.css",
+    "static/js/main.80ed0e17.js"
   ]
 }
