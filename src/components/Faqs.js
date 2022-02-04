@@ -2,7 +2,7 @@ export const Faqs = ({ faqs }) => {
   return (
     <div className="py-36" id="faqs">
       <div className="container mx-auto max-w-5xl space-y-8 px-10">
-        <h1 className="text-5xl font-semibold mb-16">FAQs</h1>
+        <h2 className="text-5xl font-semibold mb-16">FAQs</h2>
 
         {
           faqs.map((faq) => {

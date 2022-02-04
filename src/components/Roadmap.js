@@ -14,7 +14,7 @@ export const Roadmap = ({roadmapData}) => {
     <div className="bg-[#272424] text-white" id="roadmap">
       <img alt="" src={Circle} className="hidden lg:absolute lg:mt-[38rem] lg:ml-[-40rem] lg:block lg:max-h-[70rem] circle" />
       <div className="container max-w-4xl mx-auto py-32 px-10 relative">
-        <h1 className="text-5xl font-semibold text-center mb-32">Roadmap</h1>
+        <h2 className="text-5xl font-semibold text-center mb-32">Roadmap</h2>
         <div className="mb-32 space-y-10 lg:space-y-0">
           <div className="block lg:flex">
             <RoadmapCard data={roadmapData[0]} words={true} maxWidth={"mx-auto lg:mr-auto"} rotate={"lg:rotate-[-5deg]"} />

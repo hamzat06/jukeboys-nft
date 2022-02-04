@@ -8,7 +8,7 @@ export const About = () => {
       <div className="container mx-auto max-w-5xl border-solid border-2 border-gray-400 shadow-sm px-4 sm:px-8 md:px-14 py-16 md:py-20 bg-white z-10 relative">
         <div className="block md:flex md:justify-between z-10">
           <div className="mb-20 md:mb-0 pr-0 md:pr-10">
-            <h1 className="text-4xl lg:text-5xl font-semibold mb-10">About <br /> Jukeboys</h1>
+            <h2 className="text-4xl lg:text-5xl font-semibold mb-10">About <br /> Jukeboys</h2>
             <h6 className="max-w-lg text-lg md:text-xl font-semibold text-gray-500 mb-10">Jukeboys is a collection of 5,000 Cool 3D art, representing Music and Pop culture feel.</h6>
             <h6 className="max-w-lg text-xl font-semibold text-gray-500 mb-10">The jukeboys Nfts will give holders unique character identity to represent them in the future metaverse by attending virtual concerts and events.</h6>
             <h6 className="max-w-lg text-xl font-semibold text-gray-500">

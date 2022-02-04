@@ -1,7 +1,7 @@
 export const Team = ({ teamMembers }) => {
   return (
     <div className="py-32 bg-[#FAFAFA]" id="team">
-      <h1 className="text-center text-5xl font-semibold pb-16">The Team</h1>
+      <h2 className="text-center text-5xl font-semibold pb-16">The Team</h2>
       <div className="container mx-auto max-w-5xl grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 px-5 md:px-10 justify-around">
         {
           teamMembers.map((teamMember) => {
