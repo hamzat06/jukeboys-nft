@@ -5,7 +5,7 @@ export const Hero = () => {
   return (
     <div className="max-h-5xl hero bg-fixed bg-cover bg-center bg-no-repeat w-full" id="hero">
       <div className="container max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2">
-        <div className="text-center items-center py-14 md:py-28 px-10 sm:px-0 block md:hidden">
+        <div className="text-center items-center py-14 md:py-28 px-5 sm:px-0 block md:hidden">
           <img alt="" src={Jukeboys} className="max-w-xs md:max-w-sm mx-auto mb-5 animate-pulse" />
           <h1 className="text-4xl lg:text-5xl font-bold text-white ">
             Music {"&"} Pop <br /> Culture

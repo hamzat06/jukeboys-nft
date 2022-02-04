@@ -93,7 +93,7 @@ const faqs = [
   {
     title: "How To Get Whitelist?",
     content: "Whitelist will be given via giveaways, contests, helping/contributing to the community and personal interested invites will get you whitelist spot (Note: We are not imposing this on anyone).",
-    bgCcolor: "bg-[#eeeeee]",
+    bgColor: " bg-[#eeeeee]",
     icon: Faq4
   }
 ];

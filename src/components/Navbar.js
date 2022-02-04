@@ -2,10 +2,10 @@ import { Link, animateScroll as scroll } from "react-scroll";
 
 export const Navbar = ({ toggleNav, toggleNavbar, Twitter, Instagram, Logo, Discord }) => {
   return (
-    <nav className="bg-white p-6 shadow-md sticky top-0 z-30">
+    <nav className="bg-white p-4 md:p-6 shadow-md sticky top-0 z-30">
       <div className="container mx-auto max-w-6xl flex items-center justify-between flex-wrap px-5">
         <div className="flex items-center flex-shrink-0 mr-6">
-          <span className="cursor-pointer" onClick={() => scroll.scrollToTop()}><img alt="" src={Logo} className="w-16" /></span>
+          <span className="cursor-pointer" onClick={() => scroll.scrollToTop()}><img alt="" src={Logo} className="w-14 sm:w-16" /></span>
         </div>
         <div className="block lg:hidden">
           <button className="flex items-center px-3 py-2 border rounded text-gray-700 border-gray-500" onClick={toggleNavbar}>

@@ -8,10 +8,10 @@ export const Community = ({ Twitter, Instagram, Discord }) => {
           Keep Notifications On For More Updates And Exiting Perks
         </h5>
 
-        <div className="flex justify-center gap-16 sm:gap-20">
-          <a href="https://twitter.com/JukeBoysNFTs" target="_blank"><img alt="" src={Twitter} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
-          <a href="https://discord.gg/ft2fet4S" target="_blank"><img alt="" src={Discord} className="h-14 md:h-24 animate-bounce hover:animate-none" /></a>
-          <a href="https://instagram.com/jukeboysnfts/" target="_blank"><img alt="" src={Instagram} className="h-12 md:h-20 animate-bounce hover:animate-none" /></a>
+        <div className="flex justify-between  md:justify-center gap-16 sm:gap-20">
+          <a href="https://twitter.com/JukeBoysNFTs" target="_blank" rel="noreferrer"><img alt="" src={Twitter} className="w-64 sm:w-full sm:h-12 md:h-20 animate-bounce hover:animate-none" /></a>
+          <a href="https://discord.gg/ft2fet4S" target="_blank" rel="noreferrer"><img alt="" src={Discord} className="sm:h-14 sm:w-auto md:h-24 animate-bounce hover:animate-none" /></a>
+          <a href="https://instagram.com/jukeboysnfts/" target="_blank" rel="noreferrer"><img alt="" src={Instagram} className="w-64 sm:w-full sm:h-12 md:h-20 animate-bounce hover:animate-none" /></a>
         </div>
       </div>
     </div>
