@@ -9,7 +9,7 @@ export const About = () => {
         <div className="block md:flex md:justify-between z-10">
           <div className="mb-20 md:mb-0 pr-0 md:pr-10">
             <h1 className="text-4xl lg:text-5xl font-semibold mb-10">About <br /> Jukeboys</h1>
-            <h6 className="max-w-lg text-lg md:text-xl font-semibold text-gray-500 mb-10">Jukeboys is a collection of 4,800 Cool 3D art, representing Music and Pop culture feel.</h6>
+            <h6 className="max-w-lg text-lg md:text-xl font-semibold text-gray-500 mb-10">Jukeboys is a collection of 5,000 Cool 3D art, representing Music and Pop culture feel.</h6>
             <h6 className="max-w-lg text-xl font-semibold text-gray-500 mb-10">The jukeboys Nfts will give holders unique character identity to represent them in the future metaverse by attending virtual concerts and events.</h6>
             <h6 className="max-w-lg text-xl font-semibold text-gray-500">
               All characters are unique with their legendaries. 😉

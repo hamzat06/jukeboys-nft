@@ -127,7 +127,7 @@ const roadmapData = [
       "Review all 5000 Nfts",
       "Metadata Testing",
       "Verify on Secondary Markets",
-      "Discord"
+      "Launch"
     ],
     bgColor: "bg-[#ec6833]"
   },
