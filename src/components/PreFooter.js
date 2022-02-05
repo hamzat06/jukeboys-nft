@@ -6,7 +6,7 @@ export const PreFooter = ({ modalData, openModal }) => {
           {
             modalData.map((data) => {
               return (
-                <div className="mb-10" key={data.id}>
+                <div key={data.id}>
                   <h3 className="mb-5">{data.title}</h3>
                   <p className="mb-3">{data.content.substring(0,100) + "..."}</p>
                   <button onClick={() => openModal(data.id)} className="underline text-red-400 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">Read More</button>

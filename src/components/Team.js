@@ -1,3 +1,5 @@
+import {TwitterB} from "../imageImports";
+
 export const Team = ({ teamMembers }) => {
   return (
     <div className="py-32 bg-[#FAFAFA]" id="team">
@@ -6,11 +8,12 @@ export const Team = ({ teamMembers }) => {
         {
           teamMembers.map((teamMember) => {
             return (
-              <div className="p-5 lg:hover:shadow-md text-center lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
-                <img alt="" src={teamMember.avatar} className="mx-auto mb-10 w-36" />
-                <h3 className="text-xl font-semibold mb-8">{teamMember.name}</h3>
-                <p className="leading-relaxed">{teamMember.content}</p>
-              </div>
+              <a href={teamMember.twitter_link} className="p-5 lg:hover:shadow-md text-center lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
+                <img alt="" src={teamMember.avatar} className="mx-auto mb-8 w-36" />
+                <h3 className="text-xl font-semibold mb-3">{teamMember.name}</h3>
+                <img alt="" src={TwitterB} className="w-8 mx-auto" />
+                <p className="leading-relaxed mt-3">{teamMember.content}</p>
+              </a>
             )
           })
         }

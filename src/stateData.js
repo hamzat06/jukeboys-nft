@@ -41,27 +41,32 @@ const teamMembers = [
   {
     name: "JukeMag",
     content: "A talented artist with 6 years of experience and crypto enthusiast since 2020.",
-    avatar: JukeMag
+    avatar: JukeMag,
+    twitter_link: "https://twitter.com/mag_Designz"
   },
   {
     name: "JukeAlpha",
     content: "Talent and brand manager with 9 years experience in digital marketing. Passionate about tech, art, blockchain and music.",
-    avatar: JukeAlpha
+    avatar: JukeAlpha,
+    twitter_link: "https://mobile.twitter.com/AK3H23"
   },
   {
     name: "JukeHone",
     content: "Crypto analyst, mentor, developer with 12 years experience in tech and 2 years experience exploring smart contracts.",
-    avatar: JukeHone
+    avatar: JukeHone,
+    twitter_link: "https://twitter.com/serlekan"
   },
   {
     name: "JukeRobin",
     content: "Vast experience in marketing and community management United States. Jpeg Collector.",
-    avatar: JukeRobin
+    avatar: JukeRobin,
+    twitter_link: "https://twitter.com/Dirashi_"
   },
   {
     name: "JukeRashi",
     content: "CNFT market analyst, product manager with experience in marketing.",
-    avatar: JukeRashi
+    avatar: JukeRashi,
+    twitter_link: "https://twitter.com/nftstring1199"
   }
 ];
 
