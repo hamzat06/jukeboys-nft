@@ -78,7 +78,7 @@ const faqs = [
     icon: Faq2
   },
   {
-    title: "Are The Benefits To Holding Multiple Jukeboys Nft?",
+    title: "Are There Benefits To Holding Multiple Jukeboys Nft?",
     content: "Yes, there will be airdrops in the future and other planned utilities. So each Jukeboy NFT that you hold will give you more and more benefits. More details TBA.",
     bgColor: "bg-[#e5f1fe]",
     icon: Faq

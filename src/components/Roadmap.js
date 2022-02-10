@@ -24,12 +24,12 @@ export const Roadmap = ({roadmapData}) => {
           <div className="block lg:flex lg:mt-5">
             <img alt="" src={BlueArrow} className="w-64 lg:h-36 lg:mt-36 lg:ml-36 hidden lg:block lg:mb-5 lg:mr-5" />
             <RoadmapCard data={roadmapData[1]} words={true} maxWidth={"mx-auto lg:ml-auto lg:mt-[-150px]"} rotate={"lg:rotate-[7deg]"} />
-            <img alt="" src={Line2} className="max-h-36 sm:max-h-48 mx-auto mt-8 lg:hidden" />
+            <img alt="" src={Line3} className="max-h-36 sm:max-h-48 mx-auto mt-8 lg:hidden" />
           </div>
           <div className="block lg:mt-5 lg:flex">
             <RoadmapCard data={roadmapData[2]} words={true} maxWidth={"mx-auto md:mr-auto"} rotate={"lg:rotate-[-2deg]"} />
             <img alt="" src={GreenArrow} className="w-64 lg:h-36 lg:mt-36 lg:mr-36 hidden lg:block" />
-            <img alt="" src={Line3} className="max-h-36 sm:max-h-48 mx-auto mt-8 lg:hidden" />
+            <img alt="" src={Line2} className="max-h-36 sm:max-h-48 mx-auto mt-8 lg:hidden" />
           </div>
           <div className="block lg:flex lg:mt-5">
             <img alt="" src={BlueArrow} className="w-64 md:h-36 md:mt-36 md:ml-36 hidden lg:block lg:invisible mr-24" />
