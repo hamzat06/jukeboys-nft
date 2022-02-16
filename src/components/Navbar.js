@@ -72,7 +72,7 @@ export const Navbar = ({ toggleNav, toggleNavbar, Twitter, Instagram, Logo, Disc
               <a href="https://instagram.com/jukeboysnfts/" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110">
                 <img alt="" src={Instagram} className="w-8 mx-auto lg:mx-0" />
               </a>
-              <a href="https://discord.gg/ft2fet4S" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110 lg:relative lg:top-1">
+              <a href="https://discord.gg/4s6MDWkx" target="_blank" rel="noreferrer" className="block mt-4 lg:inline-block lg:mt-0 text-xl lg:hover:rotate-12 lg:hover:transition lg:hover:delay-150 lg:hover:duration-300 lg:hover:ease-in-out lg:hover:scale-110 lg:relative lg:top-1">
                 <img alt="" src={Discord} className="w-11 mx-auto lg:mx-0" />
               </a>
             </div>
