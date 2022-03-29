@@ -66,7 +66,7 @@ const teamMembers = [
     name: "JukeRashi",
     content: "CNFT market analyst, product manager with experience in marketing.",
     avatar: JukeRashi,
-    twitter_link: "https://twitter.com/Dirashi_"
+    twitter_link: ""
   }
 ];
 
