@@ -10,8 +10,7 @@ import {
   JukeMag,
   JukeAlpha,
   JukeHone,
-  JukeRobin,
-  JukeRashi
+  JukeRobin
 } from "./imageImports";
 
 const toggleNav = false;
@@ -61,12 +60,6 @@ const teamMembers = [
     content: "Vast experience in marketing and community management United States. Jpeg Collector.",
     avatar: JukeRobin,
     twitter_link: "https://twitter.com/nftstring1199"
-  },
-  {
-    name: "JukeRashi",
-    content: "CNFT market analyst, product manager with experience in marketing.",
-    avatar: JukeRashi,
-    twitter_link: ""
   }
 ];
 
